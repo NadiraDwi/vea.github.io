@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 26 19" width="26" height="19">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #35415a } 
+	</style>
+	<path id="-e-BurgerMenu" class="shp0" d="M0 0L26 0L26 3.12L0 3.12L0 0ZM26 15.87L20.21 15.87L20.21 19L26 19L26 15.87ZM26 7.94L10.85 7.94L10.85 11.06L26 11.06L26 7.94Z" />
+</svg>
